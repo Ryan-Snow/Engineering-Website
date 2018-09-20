@@ -1,0 +1,65 @@
+
+.center{
+  text-align:center;
+}
+
+.contain{
+  margin: auto;
+  
+}
+
+.centeri{
+  display: block;
+  align-items:center;
+  margin:auto;
+}
+p{
+  text-align: center;
+  
+}
+
+h1{
+  background-color:green;
+  margin: auto;
+  text-align: left;
+  
+}
+
+
+h2{
+  background-color: white;
+  padding: 0px;
+  text-align:center;
+}
+.button{
+  background-color: green ;
+  border: none;
+  color: white;
+  padding: 22px 48px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 4px;
+  cursor: pointer;
+}
+
+.buttona{
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+}
+
+.buttona:hover {
+  background-color: green;
+  color: white;
+}
+
+.buttonr{
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+}
+.buttonr:hover{
+  background-color:red;
+  color:white;
+}
